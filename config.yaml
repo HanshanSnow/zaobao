@@ -25,6 +25,12 @@ sources:
     url: "https://rsshub.app/wechat/wasi/5b575dd058e5c4583338dbd3"
     limit: 3
 
+  # 机器之心
+  - name: "机器之心"
+    type: rss
+    url: "https://www.jiqizhixin.com/rss"
+    limit: 3
+
   # 新智元：第三方微信公众号 RSS，不稳定，可能失效
   - name: "新智元（第三方）"
     type: rss
