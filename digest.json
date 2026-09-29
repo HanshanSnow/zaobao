@@ -1,0 +1,85 @@
+{
+  "digest": "早上好 ☀️ 今天是 2026-09-30。以下是为你汇总的早报内容。",
+  "items": [
+    {
+      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499239.html",
+      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499188.html",
+      "summary": "",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "OpenAI因新模型太强叫停发布",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499140.html",
+      "summary": "AGI计划暂停。",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499135.html",
+      "summary": "诺因从Demo走向家庭",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499098.html",
+      "summary": "李飞飞将入职AMD首席科学家",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "How we will do better for Australia",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering supp…",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Are you a Codex Original?",
+      "source": "OpenAI",
+      "url": "https://openai.com/form/codex-originals",
+      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the nex…",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-worl…",
+      "tag": "推荐",
+      "reason": ""
+    }
+  ]
+}
