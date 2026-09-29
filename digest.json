@@ -42,10 +42,26 @@
       "reason": ""
     },
     {
-      "title": "How we will do better for Australia",
+      "title": "Introducing GPT-6.1 Sol",
       "source": "OpenAI",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "DevDay 2026 Recap",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/devday-2026-recap",
+      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Introducing dots",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-dots",
+      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work mo…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -58,28 +74,12 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "The Lenfest Institute grows landmark program with expanded OpenAI support",
+      "title": "How we will do better for Australia",
       "source": "OpenAI",
-      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
-      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering supp…",
+      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
+      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Are you a Codex Original?",
-      "source": "OpenAI",
-      "url": "https://openai.com/form/codex-originals",
-      "summary": "We’re collecting real stories of builders, tinkerers, researchers, and creators who are using Codex to do incredible things. If you want to be a part of the nex…",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
-      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5.6 Sol, and its stronger understanding of user intent gives Basis more confidence in real-worl…",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
