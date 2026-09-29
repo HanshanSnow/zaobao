@@ -1,37 +1,50 @@
 # 你的兴趣关键词，用于给文章打“重点/关注/推荐”标签
 interests:
-  - "马斯克"
-  - "OpenAI"
-  - "大模型"
-  - "荣耀"
-  - "MagicOS"
-  - "新能源"
-  - "自动驾驶"
+
+  - "人工智能"
+  - "AI"
+  - "量子"
 
 # 你的信源（目前支持 RSS）
 sources:
-  - name: "36氪"
+  # 量子位官网（WordPress，可试试 /feed/）
+  - name: "量子位"
     type: rss
-    url: "https://36kr.com/feed"
+    url: "https://www.qbitai.com/feed/"
     limit: 5
 
-  - name: "虎嗅"
+  # OpenAI 官方博客/新闻
+  - name: "OpenAI"
     type: rss
-    url: "https://www.huxiu.com/rss/feed.xml"
+    url: "https://openai.com/blog/rss.xml"
     limit: 5
 
-  - name: "少数派"
+  # 机器之心：第三方微信公众号 RSS，不稳定，可能失效
+  - name: "机器之心（第三方）"
     type: rss
-    url: "https://sspai.com/feed"
-    limit: 5
-
-  - name: "阮一峰的网络日志"
-    type: rss
-    url: "https://www.ruanyifeng.com/blog/atom.xml"
+    url: "https://rsshub.app/wechat/wasi/5b575dd058e5c4583338dbd3"
     limit: 3
+
+  # 新智元：第三方微信公众号 RSS，不稳定，可能失效
+  - name: "新智元（第三方）"
+    type: rss
+    url: "https://rsshub.app/wechat/wasi/5b86ad61244d4e4a56a95c9a"
+    limit: 3
+
+  # 南方周末（常见 RSS 地址，可试）
+  - name: "南方周末"
+    type: rss
+    url: "https://www.infzm.com/rss/"
+    limit: 5
+
+  # 三联生活周刊（常见 RSS 地址，可试）
+  - name: "三联生活周刊"
+    type: rss
+    url: "https://www.lifeweek.com.cn/feed/"
+    limit: 5
 
 # AI 接口配置
 ai:
-  api_base: "https://api.deepseek.com/v1/chat/completions"
-  model: "deepseek-chat"
+  api_base: "https://api.deepseek.com/"
+  model: "deepseek-flash"
   # API Key 不要写在这里！通过 GitHub Secrets 注入环境变量 AI_API_KEY
