@@ -1,0 +1,37 @@
+# 你的兴趣关键词，用于给文章打“重点/关注/推荐”标签
+interests:
+  - "马斯克"
+  - "OpenAI"
+  - "大模型"
+  - "荣耀"
+  - "MagicOS"
+  - "新能源"
+  - "自动驾驶"
+
+# 你的信源（目前支持 RSS）
+sources:
+  - name: "36氪"
+    type: rss
+    url: "https://36kr.com/feed"
+    limit: 5
+
+  - name: "虎嗅"
+    type: rss
+    url: "https://www.huxiu.com/rss/feed.xml"
+    limit: 5
+
+  - name: "少数派"
+    type: rss
+    url: "https://sspai.com/feed"
+    limit: 5
+
+  - name: "阮一峰的网络日志"
+    type: rss
+    url: "https://www.ruanyifeng.com/blog/atom.xml"
+    limit: 3
+
+# AI 接口配置
+ai:
+  api_base: "https://api.deepseek.com/v1/chat/completions"
+  model: "deepseek-chat"
+  # API Key 不要写在这里！通过 GitHub Secrets 注入环境变量 AI_API_KEY
