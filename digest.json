@@ -1,45 +1,61 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-09-30。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-01。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+      "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499239.html",
-      "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499188.html",
-      "summary": "",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "OpenAI因新模型太强叫停发布",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499140.html",
-      "summary": "AGI计划暂停。",
+      "url": "https://www.qbitai.com/2026/09/499654.html",
+      "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+      "title": "直播回顾：工业AI的下一个机会在哪？",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499135.html",
-      "summary": "诺因从Demo走向家庭",
+      "url": "https://www.qbitai.com/2026/09/499605.html",
+      "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Anthropic，你是来给智谱打广告的吧！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499597.html",
+      "summary": "实测说GLM-5.3很强",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499098.html",
-      "summary": "李飞飞将入职AMD首席科学家",
+      "url": "https://www.qbitai.com/2026/09/499592.html",
+      "summary": "给Agent配上手机号，再拉个群",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499493.html",
+      "summary": "让GPT把机器人技能当工具调用",
       "tag": "推荐",
       "reason": ""
+    },
+    {
+      "title": "Disrupting a coordinated model-distillation campaign",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Helping small businesses put AI to work",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are us…",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "Introducing GPT-6.1 Sol",
@@ -61,23 +77,7 @@
       "title": "Introducing dots",
       "source": "OpenAI",
       "url": "https://openai.com/index/introducing-dots",
-      "summary": "Dots by OpenAI are a proactive assistant that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work mo…",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Towards safety cases for frontier AI training",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
-      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "How we will do better for Australia",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/how-we-will-do-better-for-australia",
-      "summary": "OpenAI apologises for incidents involving Australian government websites and outlines stronger safeguards and support to strengthen Australia’s cyber defences.",
+      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work mov…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
