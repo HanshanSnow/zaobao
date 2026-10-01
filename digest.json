@@ -1,6 +1,22 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-01。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-02。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/499812.html",
+      "summary": "用ImageNet训练encoder",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/499663.html",
+      "summary": "价格只有Astra一半",
+      "tag": "推荐",
+      "reason": ""
+    },
     {
       "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
       "source": "量子位",
@@ -26,18 +42,26 @@
       "reason": ""
     },
     {
-      "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499592.html",
-      "summary": "给Agent配上手机号，再拉个群",
+      "title": "The eternal complement",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-eternal-complement",
+      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/499493.html",
-      "summary": "让GPT把机器人技能当工具调用",
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-den-family-social",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
       "tag": "推荐",
       "reason": ""
     },
@@ -54,30 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are us…",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "summary": "Meet GPT-6.1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "DevDay 2026 Recap",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/devday-2026-recap",
-      "summary": "Explore more than 20 announcements from OpenAI DevDay 2026, including GPT-6 Astra, ChatGPT, Codex, APIs, security, and new tools for builders.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Introducing dots",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-dots",
-      "summary": "Dots by OpenAI are proactive assistants that can keep working across complex projects and everyday tasks. Learn how dots help you stay in control while work mov…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
