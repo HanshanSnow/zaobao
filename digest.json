@@ -1,6 +1,22 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-04。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-05。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "AI算力硬合作，马斯克还是更相信中国制造",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501605.html",
+      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "summary": "什么是FDE？它会一直存在吗？",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
     {
       "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
       "source": "量子位",
@@ -24,22 +40,6 @@
       "summary": "又咋啦。。。",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/500148.html",
-      "summary": "",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/500098.html",
-      "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-      "tag": "推荐",
-      "reason": ""
     },
     {
       "title": "A model guide for the GPT-6 family",
