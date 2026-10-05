@@ -1,6 +1,30 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-05。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-06。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501720.html",
+      "summary": "从绿藻里的光开关，到控制神经元",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "刚刚，Hinton发了首篇RSI论文",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501705.html",
+      "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501700.html",
+      "summary": "有改进就体验，没改进就重置，横竖不亏。",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
     {
       "title": "AI算力硬合作，马斯克还是更相信中国制造",
       "source": "量子位",
@@ -18,26 +42,18 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501451.html",
-      "summary": "专业3D模型反而更稀缺了",
-      "tag": "推荐",
-      "reason": ""
+      "title": "Our approach to EU text provenance rules",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/eu-text-provenance",
+      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501381.html",
-      "summary": "岗位JD甩了篇技术报告",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501368.html",
-      "summary": "又咋啦。。。",
+      "title": "Building advertising for the way people use AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
+      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -64,22 +80,6 @@
       "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "How Albertsons Companies is reimagining retail from the inside out",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/albertsons-reimagining-retail",
-      "summary": "Albertsons Cos. is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "The Den frees up 10-15 hours a week to grow with ChatGPT Work",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-den-family-social",
-      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days.",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
