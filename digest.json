@@ -1,6 +1,30 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-06。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-07。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501746.html",
+      "summary": "南极洲甚至有一座高地以他名字命名",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "summary": "",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "summary": "",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
     {
       "title": "刚刚，诺贝尔奖颁给光遗传学！",
       "source": "量子位",
@@ -18,26 +42,18 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501700.html",
-      "summary": "有改进就体验，没改进就重置，横竖不亏。",
+      "title": "Advancing computer use with Ironclad",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
+      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "AI算力硬合作，马斯克还是更相信中国制造",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501605.html",
-      "summary": "一种混搭的可能：英特尔继续供先进工艺，即前端用14A；后端再接台积电，来补工厂运营、良率、封装这些能力。",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "最火AI岗位FDE：月薪5万，都干这些…",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501506.html",
-      "summary": "什么是FDE？它会一直存在吗？",
+      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/atlassian-partnership",
+      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -64,22 +80,6 @@
       "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
       "tag": "推荐",
       "reason": ""
-    },
-    {
-      "title": "Chatham scales its capital markets expertise with OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatham-financial",
-      "summary": "Chatham Financial uses Codex and GPT-5.6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "The eternal complement",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-eternal-complement",
-      "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
     }
   ]
 }
