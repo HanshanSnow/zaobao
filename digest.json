@@ -1,85 +1,85 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-07。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-08。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "刚刚，诺贝尔物理奖一人独揽！",
+      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501746.html",
-      "summary": "南极洲甚至有一座高地以他名字命名",
+      "url": "https://www.qbitai.com/2026/10/501825.html",
+      "summary": "",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "不er，咋陶哲轩也成AI减速派了？？",
+      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501736.html",
+      "url": "https://www.qbitai.com/2026/10/501803.html",
       "summary": "",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "OpenAI「疯狂28天」首日，这都发了些啥啊…",
+      "title": "晕…这年头还有说人话的AI不",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501726.html",
+      "url": "https://www.qbitai.com/2026/10/501796.html",
       "summary": "",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "刚刚，诺贝尔奖颁给光遗传学！",
+      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501720.html",
-      "summary": "从绿藻里的光开关，到控制神经元",
+      "url": "https://www.qbitai.com/2026/10/501791.html",
+      "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501749.html",
+      "summary": "三位菲尔兹奖得主：不代表认可",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Helping teens learn, plan, and shape the future of AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/teens-learn-and-plan",
+      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/radisson",
+      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips…",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "GPT-6 and Intelligent UI for everyone",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-for-everyone",
+      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use direc…",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "刚刚，Hinton发了首篇RSI论文",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501705.html",
-      "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+      "title": "How Jump Trading is scaling quant research with ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jump-trading",
+      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Advancing computer use with Ironclad",
+      "title": "Sharing AI progress in mathematics",
       "source": "OpenAI",
-      "url": "https://openai.com/index/advancing-computer-use-with-ironclad",
-      "summary": "Learn how OpenAI and Ironclad are training and evaluating AI agents on complex contracting workflows to advance computer use for professional work.",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
+      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Atlassian and OpenAI expand partnership to turn enterprise knowledge into action",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/atlassian-partnership",
-      "summary": "Atlassian and OpenAI are expanding their partnership to connect frontier models with enterprise knowledge and help teams plan, build, and deliver work.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Our approach to EU text provenance rules",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/eu-text-provenance",
-      "summary": "How OpenAI is approaching text watermarking under EU rules. Learn where watermarks apply, how detection works, and why access starts with researchers.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Building advertising for the way people use AI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/new-chatgpt-ads-format-and-measurement",
-      "summary": "OpenAI introduces a new visual ad format in ChatGPT and expands measurement tools, attribution partnerships, and brand suitability for advertisers.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "A model guide for the GPT-6 family",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/practical-guide-building-gpt-6",
-      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production.",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
