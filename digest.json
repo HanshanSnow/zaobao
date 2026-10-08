@@ -1,43 +1,67 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-08。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-09。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "迟到25年！诺贝尔化学奖揭晓，95岁法国教授圆梦",
+      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501825.html",
-      "summary": "",
+      "url": "https://www.qbitai.com/2026/10/502049.html",
+      "summary": "Vidu Q4预览版，了解一下~",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "《怪物史莱克》编剧也来了！这家AI影视公司，视频模型全球第二！",
+      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501803.html",
-      "summary": "",
+      "url": "https://www.qbitai.com/2026/10/502035.html",
+      "summary": "打造便利店“人机协作”运营新模式",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502020.html",
+      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "浪子回头！Manus重启北京办公室大举招聘",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502009.html",
+      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/501995.html",
+      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "晕…这年头还有说人话的AI不",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501796.html",
-      "summary": "",
+      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/oracle",
+      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/pollo-ai",
+      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Meshy 跻身 a16z 消费级 AI 应用月收入 Top 50，为榜单唯一 AI 3D 公司",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501791.html",
-      "summary": "在 a16z 首份消费级 AI 应用月收入榜单中，Meshy 位列第 31 名，与 OpenAI、Anthropic、Canva、Superhuman、Higgsfield 等共同上榜",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "summary": "三位菲尔兹奖得主：不代表认可",
+      "title": "Disrupting AI-enabled “false front” operations",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -54,30 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/radisson",
       "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips…",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use direc…",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/jump-trading",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research. See how longer-running AI workflows combine multiple data sources with human review.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics",
-      "summary": "OpenAI publishes new results on open problems in mathematics from an internal frontier model and shares Lean proof formalizations and research details on GitHub…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
