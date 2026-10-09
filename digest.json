@@ -1,45 +1,61 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-09。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-10。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "真香！做这个邪恶老奶版「GTA 6」，我只花了5元！",
+      "title": "TRAE终于把Code和Work合并了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502049.html",
-      "summary": "Vidu Q4预览版，了解一下~",
+      "url": "https://www.qbitai.com/2026/10/502426.html",
+      "summary": "大写的方便",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "正行创新亮相APRCE 2026，发布全球首个零售物理智能24/7服务解决方案",
+      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502035.html",
-      "summary": "打造便利店“人机协作”运营新模式",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "搭载NVIDIA RTX Spark™ N1X超级芯片：联想YOGA Pro 15开启盲约，重塑个人生产力边界",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502020.html",
-      "summary": "联想YOGA Pro 15 RTX Spark笔记本电脑，于10月8日9:00正式开启全网盲约。",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "浪子回头！Manus重启北京办公室大举招聘",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502009.html",
-      "summary": "开始和国产Agent抢人，还拿到5亿美元新融资",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%？",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501995.html",
-      "summary": "PaperBenchX为代表的基准或许能更好地衡量AI的科研实力",
+      "url": "https://www.qbitai.com/2026/10/502422.html",
+      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
       "tag": "重点",
       "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502411.html",
+      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "summary": "答不答得对，得看Token站位",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "《柳叶刀》研究表明：AI 有望改善医患关系",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502359.html",
+      "summary": "Google 研究成果首次登上《柳叶刀》主刊",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sophos",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
+      "tag": "推荐",
+      "reason": ""
     },
     {
       "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
@@ -58,28 +74,12 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Disrupting AI-enabled “false front” operations",
+      "title": "LegalOn halves Codex costs while maintaining development speed",
       "source": "OpenAI",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/radisson",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips…",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
+      "url": "https://openai.com/index/legalon-halves-codex-costs",
+      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
+      "tag": "推荐",
+      "reason": ""
     }
   ]
 }
