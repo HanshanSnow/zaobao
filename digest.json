@@ -1,45 +1,45 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-11。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-12。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "特斯拉FSD，在欧洲被打回原形",
+      "title": "王的猜想，刚刚扩展到四维",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502467.html",
-      "summary": "马斯克反而发文道谢？",
+      "url": "https://www.qbitai.com/2026/10/502584.html",
+      "summary": "",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "TRAE终于把Code和Work合并了",
+      "title": "硅谷AI现状：谁有算力谁是爹",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502426.html",
-      "summary": "大写的方便",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "联想天禧自研代码智能体TianxiCode斩获SWE-bench-Live全球第一",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502422.html",
-      "summary": "联想天禧AI自主研发的专业代码智能体框架TianxiCode 以71%的问题解决率登顶全球第一名",
+      "url": "https://www.qbitai.com/2026/10/502585.html",
+      "summary": "马斯克连横A社，硅谷VC开始囤GPU",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "0.2秒急停、秒级重规划！因果智能走进真实世界",
+      "title": "下架8个月，GPT-4o的拯救行动居然还在继续",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502411.html",
-      "summary": "这是一台机器人正在关闭微波炉门时，因人手突然插进来而紧急悬停的时间",
+      "url": "https://www.qbitai.com/2026/10/502550.html",
+      "summary": "初代4o的API快照进入停用倒计时",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "字节找到了DeepSeek时强时弱的原因",
+      "title": "DeepSeek Bot来了！民间版，DSH装个插件就能用",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "summary": "答不答得对，得看Token站位",
+      "url": "https://www.qbitai.com/2026/10/502544.html",
+      "summary": "Grok Bot我养不起，ds bot不得高低尝尝咸淡？",
       "tag": "推荐",
       "reason": ""
+    },
+    {
+      "title": "西门子将亮相2026工博会：以软硬协同的工业全栈能力，推动物理AI加速落地",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502541.html",
+      "summary": "西门子将以更集中、更场景化的方式，展示其工业全栈能力",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
