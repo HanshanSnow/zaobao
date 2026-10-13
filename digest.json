@@ -1,45 +1,53 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-13。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-14。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "华为AI靠RSI通关25款游戏！操作次数比人类少56%",
+      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502654.html",
-      "summary": "游戏打到21:0，AI甚至不用再调用大模型了",
+      "url": "https://www.qbitai.com/2026/10/503107.html",
+      "summary": "让VLA从“演示可用”逼近“产线可用”",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "summary": "Winverse AI",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "智谱新模型，490 tokens/s！",
+      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502649.html",
-      "summary": "GLM「速度仙人」来了？",
+      "url": "https://www.qbitai.com/2026/10/502992.html",
+      "summary": "宝马保时捷缺席",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "用不着Ctrl+F了！全新AI论文工具，帮你在原文献里海里捞针",
+      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502644.html",
-      "summary": "一套生成论文初稿的多智能体工作流",
+      "url": "https://www.qbitai.com/2026/10/502954.html",
+      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502920.html",
+      "summary": "拉马克进化的幽灵",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "何恺明团队发布多模态Harness框架",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502628.html",
-      "summary": "多模态模型的视觉原生Harness，来了！",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "陶哲轩：数学2.0时代已至！",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502594.html",
-      "summary": "",
-      "tag": "推荐",
-      "reason": ""
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
@@ -72,14 +80,6 @@
       "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed. It matched Astra, Sol, and Luna to tasks and managed budgets strategically.",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
