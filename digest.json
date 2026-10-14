@@ -1,43 +1,75 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-14。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-15。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "魔法原子具身Agent框架拿下MolmoSpaces全球第一",
+      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503107.html",
-      "summary": "让VLA从“演示可用”逼近“产线可用”",
+      "url": "https://www.qbitai.com/2026/10/503294.html",
+      "summary": "“具身进实景，劳动最光荣”",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "summary": "Winverse AI",
+      "url": "https://www.qbitai.com/2026/10/503244.html",
+      "summary": "这妥妥是个物理版Agent啊！",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503231.html",
+      "summary": "汽车竞争正在回归汽车本身",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503211.html",
+      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "中国车企反攻德系车心脏！巴黎车展国产品牌独占三成，大众CEO连忙呼吁抱团迎战",
+      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502992.html",
-      "summary": "宝马保时捷缺席",
-      "tag": "推荐",
-      "reason": ""
+      "url": "https://www.qbitai.com/2026/10/503201.html",
+      "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "华为哈勃投了个98年博士！让机器人皮肤变色，团队平均23岁",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502954.html",
-      "summary": "让材料感知压力，造出超薄高密度电子皮肤",
-      "tag": "推荐",
-      "reason": ""
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "Claude团队又搞事：实测AI全自主复制进智能家电",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502920.html",
-      "summary": "拉马克进化的幽灵",
+      "title": "SentinelOne cuts malware analysis from weeks to hours",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sentinelone",
+      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research",
+      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -46,38 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/higgsfield-longer-videos-voice",
       "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/sophos",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Asana cuts model costs 76x in browser tests with GPT-6.1 Sol",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "How Oracle turns days of work into minutes with ChatGPT and Codex",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/oracle",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "summary": "With GPT-5.6, GPT-6 Astra, and GPT‑Image‑2.5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
