@@ -1,6 +1,14 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-15。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-16。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503303.html",
+      "summary": "给企业Agent打了个样",
+      "tag": "推荐",
+      "reason": ""
+    },
     {
       "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
       "source": "量子位",
@@ -34,10 +42,18 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "STEPX首款大模型原生智能体手机STEPX Neo正式发布",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503201.html",
-      "summary": "2026年10月13日，大模型原生AI终端品牌STEPX（阶跃终端）旗下首款大模型原生智能体手机STEPX Neo正式发布",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Teaching students to think and learn through questions",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+      "summary": "Celebrate Teachers’ Day with AI for Educators in Brazilian Portuguese and see how Study Mode can help teachers support active, step-by-step learning.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -62,22 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/third-moment-research",
       "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "The EU’s next chapter in AI is agentic",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
-      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Higgsfield takes AI video from 1 minute to over 10",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
-      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2.5, and a path to voice filmmaking with GPT-Live.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
