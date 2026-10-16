@@ -1,45 +1,53 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-16。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-17。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "7天几百元开一家店！用千问办公电商版，立省启动资金5万元",
+      "title": "京东11.11：首日下单用户数同比双位数增长、超百项服务首次全景亮相",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503303.html",
-      "summary": "给企业Agent打了个样",
+      "url": "https://www.qbitai.com/2026/10/503645.html",
+      "summary": "京东11.11已于10月12日晚8点全面开启，首日下单用户数实现同比双位数增长。",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "抢先盘点2026全球开发者先锋大会暨国际具身智能技能大赛十大亮点！",
+      "title": "库克：苹果智能接入阿里千问大模型，10月底在中国发布测试版本",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503294.html",
-      "summary": "“具身进实景，劳动最光荣”",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "阶跃终端首款「Agent手机」STEPX Neo正式发布，创客先行",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503244.html",
-      "summary": "这妥妥是个物理版Agent啊！",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "智能不出彩的「领克」，刚靠一次坠崖事故出圈了",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503231.html",
-      "summary": "汽车竞争正在回归汽车本身",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "《变形计》综艺赛博复活，AI版MrBeast爆火，LibTV下场「造星」了",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503211.html",
-      "summary": "从创意到成本，AI正在重写综艺的生产逻辑",
+      "url": "https://www.qbitai.com/2026/10/503640.html",
+      "summary": "Siri AI这次不包括在内",
       "tag": "重点",
       "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "量子位智库发布Agent落地报告！拆解企业智能化六大断点，附全链路破局框架",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503614.html",
+      "summary": "Agent究竟该如何深入业务毛细血管？",
+      "tag": "重点",
+      "reason": "命中兴趣：量子"
+    },
+    {
+      "title": "2026 TMOT首个AI智能体走进电音现场，让听众成为音乐共创者",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503611.html",
+      "summary": "10月17日至18日，顶尖电音节The Magic of Tomorrowland 2026将在上海举行。",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "这个双十一，百灵新模型干起活来不烧心",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503532.html",
+      "summary": "大模型好不好用，百灵拿成品说话",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
+      "tag": "推荐",
+      "reason": ""
     },
     {
       "title": "Bringing GPT-Rosalind to academic research labs",
@@ -58,26 +66,18 @@
       "reason": "命中兴趣：AI"
     },
     {
+      "title": "Sullivan & Cromwell brings legal expertise into agreement review",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sullivan-cromwell",
+      "summary": "In collaboration with OpenAI, Sullivan & Cromwell developed Agreement Analyzer, an AI tool for identifying issues in a draft agreement.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
       "title": "Amp puts AI agents to work beyond code with OpenAI models",
       "source": "OpenAI",
       "url": "https://openai.com/index/amp-beyond-coding",
       "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "SentinelOne cuts malware analysis from weeks to hours",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/sentinelone",
-      "summary": "With OpenAI Daybreak, SentinelOne cuts weeks of malware analysis to hours, creating capacity to investigate more threats.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/third-moment-research",
-      "summary": "With GPT-6 Astra and GPT-6.1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
