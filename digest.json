@@ -1,48 +1,64 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-20。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-21。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "VAST开源实时世界模型EdenLive！单消费级显卡、720P超24FPS",
+      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504136.html",
-      "summary": "让人人都能自由创造并体验可交互世界",
+      "url": "https://www.qbitai.com/2026/10/504517.html",
+      "summary": "兔皮底下，竟然是MiniMax！",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "突发！DeepSeek新模型发布，超级性价比斩杀一切",
+      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504067.html",
-      "summary": "新版本V4.1-Flash-1017，还开放了自研搜索API",
+      "url": "https://www.qbitai.com/2026/10/504456.html",
+      "summary": "把记忆原生焊进Transformer",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "智谱新模型，懂法方面全球第一了",
+      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503965.html",
-      "summary": "AI的风还是刮到了法律圈",
+      "url": "https://www.qbitai.com/2026/10/504452.html",
+      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504435.html",
+      "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504421.html",
+      "summary": "最新发布TokenFleet调度框架",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treat…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "清华开源！智能体操作系统任务成本降83%，AI记忆可查可改",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503935.html",
-      "summary": "整套系统原生支持MCP",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Claude半小时解开密码学悬案，学界集体走偏20年",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503910.html",
-      "summary": "谜底指向时间",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Advancing Coding in Low-Resource Programming Languages",
+      "title": "Advancing coding in low‑resource programming languages",
       "source": "OpenAI",
       "url": "https://openai.com/index/low-resource-programming-languages",
       "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
@@ -58,26 +74,10 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
       "title": "Benefit Street Partners answers questions faster with Codex",
       "source": "OpenAI",
       "url": "https://openai.com/index/benefit-street-partners",
       "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research.",
       "tag": "推荐",
       "reason": ""
     }
