@@ -1,6 +1,22 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-21。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-22。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504608.html",
+      "summary": "先看真实问题解决力",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504551.html",
+      "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
+      "tag": "推荐",
+      "reason": ""
+    },
     {
       "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
       "source": "量子位",
@@ -26,58 +42,42 @@
       "reason": ""
     },
     {
-      "title": "技术赋能全球化深耕 比亚迪携多品牌亮相2026巴黎车展",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504435.html",
-      "summary": "当地时间10月12日，2026巴黎国际车展正式启幕。",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "首Token延迟降低32.4%！是石科技集群调度大招，国产推理再提效",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504421.html",
-      "summary": "最新发布TokenFleet调度框架",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "title": "How AT&T is rethinking in-house legal work with OpenAI",
       "source": "OpenAI",
-      "url": "https://openai.com/index/ted-taylor-restaurant",
-      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "OpenAI acquires Orchestra Bio",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
-      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new treat…",
+      "url": "https://openai.com/index/att-legal",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Advancing coding in low‑resource programming languages",
+      "title": "Broad access through consistent standards",
       "source": "OpenAI",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "summary": "Learn how OpenAI is improving ChatGPT across low-resource programming languages, with new evaluations for software engineering, SQLite, and COBOL migration.",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
+      "title": "OpenAI models are coming to Google Cloud",
       "source": "OpenAI",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "summary": "With ia.i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Brazil’s …",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Benefit Street Partners answers questions faster with Codex",
+      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
       "source": "OpenAI",
-      "url": "https://openai.com/index/benefit-street-partners",
-      "summary": "Anant Kumar builds tools to compare loan valuations and analyze credit agreements, using Codex for code review and faster follow-ups.",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
       "tag": "推荐",
       "reason": ""
     }
