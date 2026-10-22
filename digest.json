@@ -1,45 +1,69 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-22。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-23。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "飞书豆包工作AI先锋未来人才大赛：企业正在争抢会用AI做成事的人",
+      "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504608.html",
-      "summary": "先看真实问题解决力",
+      "url": "https://www.qbitai.com/2026/10/504841.html",
+      "summary": "FSD一年增长70万付费用户",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "既能“做选择题”，也能“做填空题”——星辰意图理解模型Xing4.0-29B-Intent发布",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504832.html",
+      "summary": "中电信人工智能科技有限公司星辰通用人工智能实验室正式发布并开源意图理解专用模型 Xing4.0-29B-Intent",
+      "tag": "重点",
+      "reason": "命中兴趣：人工智能"
+    },
+    {
+      "title": "谁在给OpenAI供应具身数据？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504800.html",
+      "summary": "挤进全球Physical AI核心供应链",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "理想宣布：电池自燃报废赔新车！自研6年后有底气了",
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504551.html",
-      "summary": "电池、电驱、超充一把梭，冬天多跑30公里",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "summary": "医疗AI质变时刻",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504730.html",
+      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Build more responsive apps with the Decisions API",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/decisions-api",
+      "summary": "Fast, focused, low-cost decisions for any application.",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "国模Agent第一！MiniMax爆改Flash战力，全时段大肥鱼谷价",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504517.html",
-      "summary": "兔皮底下，竟然是MiniMax！",
-      "tag": "推荐",
-      "reason": ""
+      "title": "What FDE means at OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "RSI三块关键拼图，MemT 1.0从模型层补上「记忆」",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504456.html",
-      "summary": "把记忆原生焊进Transformer",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "比亚迪成为2026年APEC会议官方合作伙伴",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504452.html",
-      "summary": "2026年10月16日，比亚迪集团正式成为亚太经合组织第三十三次领导人非正式会议官方合作伙伴",
-      "tag": "推荐",
-      "reason": ""
+      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "How AT&T is rethinking in-house legal work with OpenAI",
@@ -56,30 +80,6 @@
       "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "OpenAI models are coming to Google Cloud",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Patch the Planet: global response coordination as agents uncover critical vulnerabilities",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
-      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT.",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
