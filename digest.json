@@ -1,6 +1,22 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-23。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-24。以下是为你汇总的早报内容。",
   "items": [
+    {
+      "title": "百度世界2026前瞻：10+重磅分论坛，全面解码AI时代的智能组织进化路径",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504901.html",
+      "summary": "10月21日，百度官方公众号发文披露了百度世界2026分论坛的更多议程信息。",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "又一国产决策模型发布！准确率超过微软和Jev等决策模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504879.html",
+      "summary": "10月22日，蚂蚁数科正式发布决策模型 LingDT-Decision-1.0。",
+      "tag": "推荐",
+      "reason": ""
+    },
     {
       "title": "特斯拉利润腰斩，一夜跌没“通用汽车”！马斯克：FSD在中国也会遥遥领先",
       "source": "量子位",
@@ -26,18 +42,26 @@
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504734.html",
-      "summary": "医疗AI质变时刻",
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "生数科技Motubrain团队将直播Physical AI训练全流程，持续半个月",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/504730.html",
-      "summary": "10月21日，生数科技世界模型团队正式开启Motubrain 2.0训练全流程公开直播",
+      "title": "Securing our frontier model training environment",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -54,30 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/forward-deployed-engineering-means",
       "summary": "What forward deployed engineering means at OpenAI",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Uber brings ChatGPT Work to all employees with OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
-      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "How AT&T is rethinking in-house legal work with OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access. Learn how its LegalEdge team is rethinking intake and scaling legal judgment.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Broad access through consistent standards",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/broad-access-through-consistent-standards",
-      "summary": "How OpenAI works with distribution partners to uphold consistent safeguards, support responsible access, and clarify expectations in our Usage Policies.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
