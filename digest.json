@@ -1,45 +1,69 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-10-30。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-10-31。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "文远知行001号员工带队，景烁科技首轮融资数千万美元",
+      "title": "英伟达团队基于 MiniMax H3 开源视频增强方案，最高支持 4K 重生成",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506281.html",
-      "summary": "10月29日，文远知行披露旗下子公司景烁科技首次融资进展",
+      "url": "https://www.qbitai.com/2026/10/506743.html",
+      "summary": "英伟达与麻省理工学院团队，在 Hugging Face 发布了视频增强项目 Open-H3-Regenerate-2K 的模型权重",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "小雨智造与国家钢结构质检中心共建实验室，乔忠良：具身智能新质生产力已成事实",
+      "title": "RSI立大功！国产开源登顶全球第一，1.3B OXR重塑OCR",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506273.html",
-      "summary": "2026年10月27日，“工业具身智能焊接与检测技术联合实验室”正式揭牌成立。",
+      "url": "https://www.qbitai.com/2026/10/506686.html",
+      "summary": "解析一切",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "刚刚，扩散模型杀进Agent主场！350亿参数，速度比Jev快一倍",
+      "title": "Claude新模型曝光：新Fable，新Opus…",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/505934.html",
-      "summary": "用扩散模型怎么做做Agent？",
+      "url": "https://www.qbitai.com/2026/10/506674.html",
+      "summary": "",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "24万开卖！理想重造i6，李想：目标全球畅销",
+      "title": "从学习人类到学习机器人同伴，清华大学联合无问芯穹、智元提出具身智能规模化落地新路径",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506246.html",
-      "summary": "理想今年最后一场发布会，自研电池芯片全部上车",
+      "url": "https://www.qbitai.com/2026/10/506662.html",
+      "summary": "让机器人成为彼此的“老师”",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "刚刚，Gemini 4 Carbon全面超越Opus 5.5！首发Token半价",
+      "title": "前排围观！MEET2027报名通道正式开启，首批重磅嘉宾已就位",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506227.html",
-      "summary": "能连肝数日修Bug，免疫提示词注入",
+      "url": "https://www.qbitai.com/2026/10/506609.html",
+      "summary": "",
       "tag": "推荐",
       "reason": ""
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training …",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "An updated Model Spec for more capable and beneficial AI",
@@ -54,30 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
       "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI. Lawyers review grouped documents, summaries, and reports before advising clients.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "The future of the firm",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-future-of-the-firm",
-      "summary": "How AI might enter the org chart—beneath, beside, and between us.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
