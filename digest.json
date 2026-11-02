@@ -1,45 +1,45 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-01。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-02。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "你的8G iPad里有12G内存！库克走了但他的刀法追着我砍",
+      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506884.html",
-      "summary": "苹果“牛奶倒河里”式操作翻红",
+      "url": "https://www.qbitai.com/2026/11/507076.html",
+      "summary": "西湖世界模型研究中心成立",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "世界模型首次指导设计芯片！超大核NPU700TOPS，99%算力可用",
+      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506866.html",
-      "summary": "AI算力利用“九九成”",
+      "url": "https://www.qbitai.com/2026/11/507038.html",
+      "summary": "",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507031.html",
+      "summary": "让AI像牛顿一样思考",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "刚刚，Claude宣布取消5小时限制！首批Ultra用户已「解封」",
+      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506855.html",
-      "summary": "200美元Ultra用户先用",
+      "url": "https://www.qbitai.com/2026/11/506990.html",
+      "summary": "这事还是想得太简单了",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "榜一，拿来吧你！智元这波双模型杀穿多榜榜单",
+      "title": "Jev新成果，再次引爆开源",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506819.html",
-      "summary": "xs，还要给机器人打绩效",
+      "url": "https://www.qbitai.com/2026/11/506922.html",
+      "summary": "再次“性价比屠夫”",
       "tag": "推荐",
       "reason": ""
-    },
-    {
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%！",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506785.html",
-      "summary": "之前还连登昇腾三榜第一",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
     },
     {
       "title": "Making it easier for websites to express AI training preferences",
