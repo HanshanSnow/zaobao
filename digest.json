@@ -1,83 +1,83 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-02。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-03。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "三年前布局，今年爆火丨西湖大学成立新中心",
+      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507076.html",
-      "summary": "西湖世界模型研究中心成立",
+      "url": "https://www.qbitai.com/2026/11/507367.html",
+      "summary": "GPU迭代一百次的事，它一步做完",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Claude紧急叫停！暗改Harness禁止逆向游戏",
+      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507038.html",
-      "summary": "",
+      "url": "https://www.qbitai.com/2026/11/507339.html",
+      "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "清华姚期智团队新作：代数世界模型，让AI像牛顿一样思考",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507031.html",
-      "summary": "让AI像牛顿一样思考",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "老牌便利店机器人售货折戟：实验室锤炼上万次，货架前还是摔瓶子",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/506990.html",
-      "summary": "这事还是想得太简单了",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "summary": "指令执行能力也同步提升",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Jev新成果，再次引爆开源",
+      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/506922.html",
-      "summary": "再次“性价比屠夫”",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "summary": "OpenAI will honor a shared robots.txt signal to help website operators communicate their AI training preferences to participating providers.",
+      "url": "https://www.qbitai.com/2026/11/507313.html",
+      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Community safety report and new protections for teens",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
-      "summary": "OpenAI is strengthening violence prevention in ChatGPT with expanded safeguards, earlier interventions, and a new commitment to public safety reporting.",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "summary": "商汤SenseNova 6.8 Flash",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Fair use benefits everyone",
+      "title": "Scaling Git at OpenAI",
       "source": "OpenAI",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI training …",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "An updated Model Spec for more capable and beneficial AI",
+      "title": "Introducing the Grid Protectors Program",
       "source": "OpenAI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent.",
+      "url": "https://openai.com/index/grid-protectors-program",
+      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "How we detect frontier model misalignment",
+      "title": "Rewarding defenders with bigger bug bounties",
       "source": "OpenAI",
-      "url": "https://openai.com/index/how-we-detect-frontier-model-misalignment",
-      "summary": "OpenAI uses layered monitoring to detect frontier model misalignment and unauthorized agent behavior so responders can intervene before incidents escalate.",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
+      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "LifeVal",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lifeval",
+      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwor…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
