@@ -1,43 +1,75 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-03。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-04。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "模拟计算进入矩阵时代！北大联手硅谷IBM，写下新定义",
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507367.html",
-      "summary": "GPU迭代一百次的事，它一步做完",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "B站举办2026超级科学晚，脑机接口、人造太阳等前沿科技齐亮相",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507339.html",
-      "summary": "10月31日，2026年bilibili超级科学晚（以下简称“B站科学晚”）在北京如期举行。",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507322.html",
-      "summary": "指令执行能力也同步提升",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "爱诗科技PixVerse 与 OpenAI 共同推出产品集成和创作者教育计划，高效打通 AI 创意全流程",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507313.html",
-      "summary": "近日，爱诗科技（AIsphere）旗下模型和开放平台PixVerse 与 OpenAI 宣布开启深度合作",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "summary": "AI接管调度运营，仓库越干越聪明",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了！",
+      "title": "智己LS8纯电版背后：8年研发底盘，两大厂联合开发电池",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507277.html",
-      "summary": "商汤SenseNova 6.8 Flash",
+      "url": "https://www.qbitai.com/2026/11/507473.html",
+      "summary": "两位CTO，关起门来吵架",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "模型谁都买得到，拉开差距的是AI生产力系统",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507448.html",
+      "summary": "AI的下一程是生产力系统之争",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "纯语音Personal Agent来了！或许，这就是乔布斯心中的Siri",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507419.html",
+      "summary": "终于，有了一个可以触摸的起点",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "苹果被曝的新产品，中国央企8个月前已装进公共卫生间",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507410.html",
+      "summary": "TeleAI智慧看护助手",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Accelerating engineering for the physical world",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
+      "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security. Learn how it is building more adaptive defenses.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/heimstaden",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -46,38 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai",
       "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Introducing the Grid Protectors Program",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/grid-protectors-program",
-      "summary": "OpenAI’s Grid Protectors Program will work with utilities to help future compute campuses support grid reliability and protect consumer electricity costs.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Rewarding defenders with bigger bug bounties",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
-      "summary": "OpenAI is raising Security Bug Bounty rewards and introducing report quality, loyalty, and priority campaign bonuses for independent security researchers.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Preparing our next security sprint to harden OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
-      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "LifeVal",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/lifeval",
-      "summary": "Introducing LifeVal, a benchmark measuring how well AI helps people complete everyday tasks, from finding childcare to managing finances and government paperwor…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
