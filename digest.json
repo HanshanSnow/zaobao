@@ -1,85 +1,85 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-05。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-06。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "GPT-Image-2.6全量上线！直出GIF和SVG，6.2 Astra也现身了",
+      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507707.html",
-      "summary": "最快6秒出图",
+      "url": "https://www.qbitai.com/2026/11/507787.html",
+      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Linux内核被挖出948个漏洞！OpenAI花120万美元找到的",
+      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507697.html",
-      "summary": "被轰成筛子了…",
+      "url": "https://www.qbitai.com/2026/11/507782.html",
+      "summary": "spaCy作者长文炮轰",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507767.html",
+      "summary": "像雇人一样雇机器人",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507757.html",
+      "summary": "尹希官宣离开OpenAI",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "太初元碁入选2026年世界互联网大会领先科技奖收录成果集《科技之魅》",
+      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507688.html",
-      "summary": "11月2日，2026年世界互联网大会领先科技奖收录成果集《科技之魅》正式对外发布。",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "从3D生成到世界模型，这家AI公司想和年轻人一起定义问题",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507675.html",
-      "summary": "薪资+期权不限！实习生也能训核心模型",
+      "url": "https://www.qbitai.com/2026/11/507696.html",
+      "summary": "Data + AI 技术实践巡展 · 上海站",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "百度无人车搞出“黑客帝国”！世界模型实时推演全局，跑一天抵三年",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507647.html",
-      "summary": "连路人都有自己的想法",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "title": "Australian universities are creating AI-native graduates",
       "source": "OpenAI",
-      "url": "https://openai.com/index/openai-to-acquire-pierre",
-      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code.",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "summary": "Australian universities are expanding access to ChatGPT and bringing AI into teaching and learning to prepare students for an AI-enabled workforce.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "title": "Cult.fit builds operational muscle with Codex",
       "source": "OpenAI",
-      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
-      "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
+      "url": "https://openai.com/index/cultfit-builds-with-codex",
+      "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "A thousand fewer paths to root",
+      "title": "GPT‑6 Cyber: Advancing the frontier of aligned cybersecurity agents",
       "source": "OpenAI",
-      "url": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-      "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
+      "url": "https://openai.com/index/introducing-gpt-6-cyber",
+      "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Introducing Images 2.6",
+      "title": "Merge builds product and business tools with OpenAI technology",
       "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-images-2-6",
-      "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-      "tag": "推荐",
-      "reason": ""
+      "url": "https://openai.com/index/merge-builds-with-openai",
+      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updat…",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "title": "Setting a new standard for responsible AI infrastructure",
       "source": "OpenAI",
-      "url": "https://openai.com/index/devrev-enterprise-self-service",
-      "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-      "tag": "推荐",
-      "reason": ""
+      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
+      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastru…",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     }
   ]
 }
