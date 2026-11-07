@@ -1,43 +1,59 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-06。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-07。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "百度开源文心5.5 Flash Base，多基准测试刷新同尺寸模型 SOTA",
+      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507787.html",
-      "summary": "11月5日，百度正式开源最新基座模型文心5.5 Flash Base",
+      "url": "https://www.qbitai.com/2026/11/508155.html",
+      "summary": "Q3营收实现数倍增长",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "MIT神作被锤：Astra爆改Qwen权重？就吹吧！",
+      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507782.html",
-      "summary": "spaCy作者长文炮轰",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "以“真实工作”检验机器人价值，XROGO在CeMAT ASIA发布机器人到岗计划",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507767.html",
-      "summary": "像雇人一样雇机器人",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507757.html",
-      "summary": "尹希官宣离开OpenAI",
+      "url": "https://www.qbitai.com/2026/11/508118.html",
+      "summary": "挑战商业视频的高难度场景",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "基于本体+知识+Harness+Datat Agent的智能体完整落地链路！",
+      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507696.html",
-      "summary": "Data + AI 技术实践巡展 · 上海站",
+      "url": "https://www.qbitai.com/2026/11/508143.html",
+      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508107.html",
+      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507988.html",
+      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -62,22 +78,6 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/introducing-gpt-6-cyber",
       "summary": "Introducing GPT‑6 Cyber, OpenAI’s cybersecurity model for finding exploitable vulnerabilities and developing fixes, trained to stay within authorized scope.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Merge builds product and business tools with OpenAI technology",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/merge-builds-with-openai",
-      "summary": "Merge uses GPT-6 Astra, ChatGPT, and Codex to review product code and support marketing. Its teams also use AI to plan executive dinners and prepare sales updat…",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Setting a new standard for responsible AI infrastructure",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/setting-new-standard-responsible-ai-infrastructure",
-      "summary": "OpenAI introduces its National Community Compact and Compute Campus Policy Blueprint to protect local resources, create jobs, and guide responsible AI infrastru…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
