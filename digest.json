@@ -1,45 +1,45 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-07。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-08。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "DeepSeek带火稀疏计算，国产芯片公司加速突围：这家公司又融近10亿",
+      "title": "GitHub不堪重负！OpenAI收购替代品，A社原地自研，马斯克也要搞",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508155.html",
-      "summary": "Q3营收实现数倍增长",
+      "url": "https://www.qbitai.com/2026/11/508449.html",
+      "summary": "AI写代码太快，基础设施跟不上了",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "OpenAI新融资到账110亿美元，不及原计划一半",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508344.html",
+      "summary": "融资缩水，硅谷投资人也谨慎了",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "为了去AI味，人类开始主动写烂文章了……",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508330.html",
+      "summary": "需要说明的是，这并不意味着不会说人话就一定是人，也不意味着说人话的就一定不是AI.......",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "抢跑DeepSeek！硅谷华人把下一代Agent Harness造出来了！？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508264.html",
+      "summary": "苦单Session久矣，两大Agent玩家不谋而合。",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "一边赛博修仙，一边卖家电！AI短剧开始冲双11业绩了？",
+      "title": "AGENTS.MD，危险危险危险！！！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508118.html",
-      "summary": "挑战商业视频的高难度场景",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "从RSI、Agent、Physical AI到整个系统栈，2026 奇点智能技术大会最新日程公布！",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508143.html",
-      "summary": "11 月 20—21 日，2026 奇点智能技术大会将在北京万达文华酒店举行。",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508107.html",
-      "summary": "一举刷新「AI安全世界杯」CyberGym世界纪录",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "香港金融科技周 x StartmeupHK 2026主论坛：以「金融+」、「AI+」及全球拓展开拓新机遇",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507988.html",
-      "summary": "香港金融科技周 x StartmeupHK 2026踏入第11届",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
+      "url": "https://www.qbitai.com/2026/11/508244.html",
+      "summary": "全新的电脑病毒",
+      "tag": "推荐",
+      "reason": ""
     },
     {
       "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
