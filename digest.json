@@ -1,43 +1,43 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-11。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-12。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "从芯片到千比特整机，超导量子计算还有一场硬仗",
+      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509017.html",
-      "summary": "近亿元融资刚刚落袋",
+      "url": "https://www.qbitai.com/2026/11/509281.html",
+      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509224.html",
+      "summary": "模型即将开源",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "上海造、香港连，中国AI加速走向全球",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509214.html",
+      "summary": "WAIC把中国AI的年度日历排满了",
       "tag": "重点",
-      "reason": "命中兴趣：量子"
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "从“一脑多机”到“一脑多手”，蚂蚁灵波开源LingBot-Touch触觉基础模型",
+      "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508996.html",
-      "summary": "11月10日，蚂蚁灵波科技开源触觉基础模型LingBot-Touch",
+      "url": "https://www.qbitai.com/2026/11/509203.html",
+      "summary": "复刻一个物理世界",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Agent自演进驶入“双轨时代”！openJiuwen首发TTSE经验学习框架",
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508998.html",
-      "summary": "让每一次任务，都成为下一次进步的起点",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "成立四个月，融资过亿美金：TensorWorld物原科技要跑通“物理真实”路线",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508991.html",
-      "summary": "TensorWorld物原科技在一个月内已拿到过亿美元融资",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "达卯科技与浦东环保能源战略合作，黎明智算中心算电协同平台启动",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508985.html",
-      "summary": "加速东部城市型智算中心向E-AIDC演进",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "summary": "价格、门槛全打穿",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -46,6 +46,22 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -64,22 +80,6 @@
       "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
       "tag": "推荐",
       "reason": ""
-    },
-    {
-      "title": "Closing the AI guidance gap in education",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
-      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Work at the Frontier: AI’s effect on freelance work",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/ai-effect-on-freelance-work",
-      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
     }
   ]
 }
