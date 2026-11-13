@@ -1,43 +1,75 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-12。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-13。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "“双十一”机器人在物流仓“埋头苦干”：昆腾动力开启具身智能规模化获客与交付阶段",
+      "title": "多模态“源神”！MiniMax开源SOTA生图模型，原生4K，一张两毛",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509281.html",
-      "summary": "跨境称重量方等场景完成PMF验证并出现客户复购，新一代构型机器人计划12月底发布",
+      "url": "https://www.qbitai.com/2026/11/509440.html",
+      "summary": "「CAD拆解」",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "纯代码造《后室》，116秒切20种画风！文心新模型玩嗨了",
+      "title": "从通用大模型到学习过程智能，AI如何真正进入课堂？",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509224.html",
-      "summary": "模型即将开源",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "上海造、香港连，中国AI加速走向全球",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509214.html",
-      "summary": "WAIC把中国AI的年度日历排满了",
+      "url": "https://www.qbitai.com/2026/11/509404.html",
+      "summary": "银河智学首席科学家邓澍军博士发表主题演讲",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "机器人接管酒店洗衣！双脑协同+RSI，顶级Astra驾驶员来了",
+      "title": "Anthropic启动IPO路演，估值已缩水6000亿美元",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509203.html",
-      "summary": "复刻一个物理世界",
+      "url": "https://www.qbitai.com/2026/11/509381.html",
+      "summary": "全世界都在踩刹车，达里奥一个人踩油门",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "title": "马斯克Grok泄露自家机密！SpaceX特斯拉工资绩效全曝光",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509146.html",
-      "summary": "价格、门槛全打穿",
+      "url": "https://www.qbitai.com/2026/11/509355.html",
+      "summary": "Grok在让人破绷这件事上，从来不会让人失望。",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "让AI真正懂业务：璇玑如何成为企业AI的语义基础设施",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509349.html",
+      "summary": "企业 AI 的难题，不只是模型够不够强",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures…",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Gondola doubles revenue as its team builds more with Codex",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/gondola",
+      "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Holiday Extras is rethinking what it can build with Codex",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/holidays-extras-codex",
+      "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
@@ -48,38 +80,6 @@
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "ChatGPT Plus for veterans and servicemembers",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
-      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Introducing Businesses in ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-businesses-chatgpt",
-      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
