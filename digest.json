@@ -1,83 +1,83 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-17。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-18。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "睿尔曼智能郑随兵：质量、经济性、稳定性是机器人落地三大标准",
+      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510542.html",
-      "summary": "具身智能的真正价值是“把人的经验、技能复刻出来”",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "2026甲子引力年终盛典即将启幕，AI的无限游戏进入「第二序章」｜甲子引力",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510526.html",
-      "summary": "12月1日，细数AI的未竟之问。",
+      "url": "https://www.qbitai.com/2026/11/510737.html",
+      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "没搞过一天研发的他，50岁以华为董事的身份退休了",
+      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510496.html",
-      "summary": "在华为待了快10000天。",
+      "url": "https://www.qbitai.com/2026/11/510726.html",
+      "summary": "英伟达公布了老黄离职后的首份财报",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "SuperLink2026开启创投行业超级链接时刻，12月北京见",
+      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510493.html",
-      "summary": "2026年12月2-3日，清科控股、投资界主办的SuperLink2026将在北京启幕，汇聚创投各方，设置多场垂直专场与特色活动，探讨行业趋势、挖掘投资机会。",
+      "url": "https://www.qbitai.com/2026/11/510707.html",
+      "summary": "Sol逼近旗舰性能",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "阿里正式发布Qwen4，智能体及编程能力进阶，迈向真实全场景",
+      "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510486.html",
-      "summary": "11月16日，阿里巴巴发布全新一代基座大模型Qwen4-Max",
+      "url": "https://www.qbitai.com/2026/11/510695.html",
+      "summary": "82亿美元股票，46天闪电交割",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Broadening access to AI for scientists",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510688.html",
+      "summary": "瞄准「产业级世界模型」",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "title": "Introducing GPT-6.2 Astra and Sol",
       "source": "OpenAI",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "title": "Strengthening NATO and allied cyber defenses with AI",
       "source": "OpenAI",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Our first phase of embedded assessments",
+      "title": "Introducing ChatGPT for Sales",
       "source": "OpenAI",
-      "url": "https://openai.com/index/our-first-phase-of-embedded-assessments",
-      "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring…",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward…",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Astra for Law leads in legal intelligence",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications…",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
