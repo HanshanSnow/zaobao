@@ -1,83 +1,83 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-18。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-19。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "潜伏小红书48h：AI时代，顶尖技术人才都在聊什么？",
+      "title": "初中毕业烘焙师，1 人搓出单集千万播放科幻剧，中国AI长片杀疯了！",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510737.html",
-      "summary": "小红书校招沙龙，一群技术高手认真对待年轻人的野心",
+      "url": "https://www.qbitai.com/2026/11/510947.html",
+      "summary": "国产AI工具实现「一个人就是一个剧组」",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "黄仁勋不再沉默：我愿重掌英伟达！董事会：不考虑",
+      "title": "Gemini新模型Neon箭在弦上，网友：遍历元素周期表？",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510726.html",
-      "summary": "英伟达公布了老黄离职后的首份财报",
+      "url": "https://www.qbitai.com/2026/11/510922.html",
+      "summary": "氖人寻味！",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "GPT-6.2 Astra和Sol王炸双发！3D又危了",
+      "title": "GPT-6.2难产！OpenAI怕了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510707.html",
-      "summary": "Sol逼近旗舰性能",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "并购完成，李飞飞正式率队加入AMD！苏妈亲自欢迎",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510695.html",
-      "summary": "82亿美元股票，46天闪电交割",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "李沐加盟的Aimotion，是一家什么AI公司？",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510688.html",
-      "summary": "瞄准「产业级世界模型」",
+      "url": "https://www.qbitai.com/2026/11/510914.html",
+      "summary": "OpenAI也终于活成了2022年谷歌的样子",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Introducing GPT-6.2 Astra and Sol",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-      "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "Strengthening NATO and allied cyber defenses with AI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+      "title": "全球首个医疗健康AI独立评测与分析平台InclusionMed正式上线",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510916.html",
+      "summary": "近日，全球首个医疗健康 AI 独立评测与分析平台InclusionMed 正式上线",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Introducing ChatGPT for Sales",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward…",
+      "title": "思维链一作Jason Wei离职！怎么去Meta待一年都跑路",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510811.html",
+      "summary": "入职Meta刚满一年出头，竟然直接提桶跑路了！",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Astra for Law leads in legal intelligence",
+      "title": "The Silent Consensus",
       "source": "OpenAI",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+      "url": "https://openai.com/index/the-silent-consensus",
+      "summary": "Dean Ball, Head of Strategic Futures at OpenAI, examines how more capable AI could reshape society and how people can retain control of their institutions.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "Research acceleration: The jagged frontier",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/research-acceleration-jagged-frontier",
+      "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/sumitomo-life",
+      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adop…",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "Introducing OpenAI for Chile",
+      "title": "Inside the Codex sandbox",
       "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications…",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "summary": "See how Codex runs commands on your machine while enforcing the filesystem and network limits you control across macOS, Linux, and Windows.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Managing frontier AI risk: From training to deployment",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     }
