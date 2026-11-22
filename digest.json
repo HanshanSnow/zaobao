@@ -1,43 +1,43 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-21。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-22。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "昇腾算力训出了双榜SOTA的具身世界模型，华为云这次想把整套底座开放出来",
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511610.html",
-      "summary": "国产算力的成熟，把具身竞争维度从「芯片有多强」，拉入了一个比拼训练效率、数据规模、部署成本和场景落地速度的多维战场。",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "summary": "还实现可变形物体操控全球首通",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "新浪新闻·2026探索大会在京举行 虚实交融共探智能时代共生新图景",
+      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511603.html",
-      "summary": "11月19日，由微博与新浪新闻联合主办的“新浪新闻·2026探索大会”在北京举办。",
+      "url": "https://www.qbitai.com/2026/11/511570.html",
+      "summary": "专为本地部署而生",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27！",
+      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "summary": "已开源Agnes Harness",
+      "url": "https://www.qbitai.com/2026/11/511757.html",
+      "summary": "还透露了不少训练背后的秘诀",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "具身机器人进入真机时代，华为云CloudRobo开始组队发力了",
+      "title": "米哈游发了个VLA论文",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511426.html",
-      "summary": "一批卡可以轮流服务多家公司，一次适配也能让更多团队受益。算力不必家家从头买，工程上的坑也不用家家重新踩。",
+      "url": "https://www.qbitai.com/2026/11/511740.html",
+      "summary": "8B参数，50小时自主运行",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "影视飓风、Manus、影石、OPPO……极客公园创新大会 2027 嘉宾阵容更新！",
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511258.html",
-      "summary": "「Revaluation 价值，另有答案」",
+      "url": "https://www.qbitai.com/2026/11/511727.html",
+      "summary": "",
       "tag": "推荐",
       "reason": ""
     },
