@@ -1,45 +1,13 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-22。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-23。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511779.html",
-      "summary": "还实现可变形物体操控全球首通",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "刚刚，DeepSeek V1作者创业项目曝光：开源Agent",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511570.html",
-      "summary": "专为本地部署而生",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "姚顺雨和混元团队上Reddit答网友，Hy小模型已进路线图",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511757.html",
-      "summary": "还透露了不少训练背后的秘诀",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "米哈游发了个VLA论文",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511740.html",
-      "summary": "8B参数，50小时自主运行",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511727.html",
-      "summary": "",
-      "tag": "推荐",
-      "reason": ""
+      "title": "Perplexity and Intelligence",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "Combatting adversarial distillation",
@@ -72,14 +40,6 @@
       "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
       "tag": "重点",
       "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "Explore the Codex Security Plugin",
-      "source": "OpenAI",
-      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
-      "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-      "tag": "推荐",
-      "reason": ""
     }
   ]
 }
