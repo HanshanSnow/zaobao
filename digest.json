@@ -1,85 +1,85 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-24。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-25。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "报名从速｜来MEET2027！听AI前沿实践者交出“判断”",
+      "title": "Google Cloud 出海峰会报名开启",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512329.html",
-      "summary": "12.9 北京，来MEET2027现场",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "蚂蚁OceanBase发布湖库一体AI数据平台OceanLake，核心引擎向全球开源",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512330.html",
-      "summary": "中国AI数据平台加速崛起",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "释放AI与出海强预期，近1500人参与亿邦产业互联网年会暨首届产业智能体大会",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512305.html",
-      "summary": "2026年11月20日，第八届亿邦产业互联网年会与首届产业智能体大会在北京国贸大酒店首次合体举行。",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "“得Agent开发者，得天下”，70+技术大咖共探AI技术演进与生态变革，2026奇点智能技术大会圆满收官！",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512297.html",
-      "summary": "「2026 奇点智能技术大会」与「2026 C++ 及系统软件技术大会」在北京万达文华酒店成功举办。",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
-    },
-    {
-      "title": "具身行业，终于等来了自己的通用智能时刻",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512264.html",
-      "summary": "行业苦等多年的预训练通用智能，终于有了答案",
+      "url": "https://www.qbitai.com/2026/11/512370.html",
+      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
       "tag": "推荐",
       "reason": ""
     },
     {
-      "title": "OpenAI and Cisco introduce Shirudo",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-shirudo",
-      "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "Connected intelligence for in-house legal",
-      "source": "OpenAI",
-      "url": "https://openai.com/business/learn/connected-intelligence-for-in-house-legal",
-      "summary": "Watch OpenAI’s Stacey Wang and Craig Bruney, Mary O’Carroll of LECG, and Cooley’s Richard Segal explore how AI can help in-house legal teams connect business co…",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
+      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "summary": "",
+      "tag": "推荐",
+      "reason": ""
     },
     {
-      "title": "Richpanel helps companies automate 50% of support in 30 days",
-      "source": "OpenAI",
-      "url": "https://openai.com/business/customer-stories/richpanel-ai-customer-support",
-      "summary": "Richpanel uses GPT-6 Astra and GPT-6.1 Sol to equip its AI support agents with tools and procedures, and GPT-6 Luna for their conversations.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
+      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512348.html",
+      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
+      "tag": "推荐",
+      "reason": ""
     },
     {
-      "title": "Perplexity and Intelligence",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/perplexity-and-intelligence",
-      "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
+      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512343.html",
+      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
+      "tag": "推荐",
+      "reason": ""
     },
     {
-      "title": "Combatting adversarial distillation",
+      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
       "source": "OpenAI",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "summary": "OpenAI’s layered approach to adversarial distillation combines model training, safeguards, detection, and enforcement to protect against capability extraction.",
-      "tag": "重点",
-      "reason": "命中兴趣：AI"
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code. Lab tests found evidence of binding across five targets.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Searching for distant planets with Astra",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "summary": "See how two amateur astronomers used Codex and Astra to find potential exoplanets in public data from NASA’s Kepler and TESS space telescopes.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "How Intentful uses dots to make more time for growth",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "summary": "Marina Petrova’s dot Aria helps research websites and build proposals, while proactively flagging messages and resolving issues.",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "summary": "",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning.",
+      "tag": "推荐",
+      "reason": ""
     }
   ]
 }
