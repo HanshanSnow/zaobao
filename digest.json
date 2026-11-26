@@ -1,45 +1,45 @@
 {
-  "digest": "早上好 ☀️ 今天是 2026-11-25。以下是为你汇总的早报内容。",
+  "digest": "早上好 ☀️ 今天是 2026-11-26。以下是为你汇总的早报内容。",
   "items": [
     {
-      "title": "Google Cloud 出海峰会报名开启",
+      "title": "AI影视高地正在北影海淀一带崛起，「一人制片厂」基建搭好了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512370.html",
-      "summary": "2027 Google Cloud 出海峰会将于 1 月 14 日在北京中关村国际创新中心举行",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512362.html",
-      "summary": "端侧老炮辛米尔，打通物理AI规模化落地之路",
+      "url": "https://www.qbitai.com/2026/11/512828.html",
+      "summary": "叠满海淀最强AI Buff。",
       "tag": "重点",
       "reason": "命中兴趣：AI"
     },
     {
-      "title": "文心 5.5 Flash Preview正式开源，采用 Apache 2.0 协议",
+      "title": "刚刚，黎曼猜想证明代码暴砍了99.5%！只剩7.6万行",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512354.html",
+      "url": "https://www.qbitai.com/2026/11/512819.html",
+      "summary": "合着全让A➗揽了",
+      "tag": "推荐",
+      "reason": ""
+    },
+    {
+      "title": "我以为这是摄影作品，你告诉我这是最新的国产AI？！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512748.html",
+      "summary": "商汤SenseNova U1.6",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
+    },
+    {
+      "title": "丢个故事就行！直出15分钟AI短片，家里二舅也能上手",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512727.html",
       "summary": "",
-      "tag": "推荐",
-      "reason": ""
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
-      "title": "八年研发，首搭方程豹钛9，全球首个折叠方向盘量产上车",
+      "title": "零基础也能做开发，智元灵心平台一年孵化超3万个机器人智能体",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512348.html",
-      "summary": "11月19日，方程豹钛9上市，售价27.99万元起",
-      "tag": "推荐",
-      "reason": ""
-    },
-    {
-      "title": "巴新总理见证，仰望U8交付巴布亚新几内亚市场",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512343.html",
-      "summary": "2026年11月18日，中国深圳——APEC会议期间，比亚迪仰望U8正式交付巴布亚新几内亚市场",
-      "tag": "推荐",
-      "reason": ""
+      "url": "https://www.qbitai.com/2026/11/512715.html",
+      "summary": "智元推出行业首个开放且完整的具身智能生态技术体系AIMA",
+      "tag": "重点",
+      "reason": "命中兴趣：AI"
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
